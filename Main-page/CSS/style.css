@@ -2,6 +2,9 @@ html{
   box-sizing: border-box;
 }
 
+@media{
+    min
+}
 *,
 * ::before,
 * ::after{
